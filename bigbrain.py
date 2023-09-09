@@ -40,7 +40,7 @@ while True:
 
     while True:  # Infinite loop for the entire script
         # Run the original script for 167 seconds
-        time.sleep(166)
+        time.sleep(167)
         key_pressing_enabled = False  # Pause the original script
 
         # Hold the 'E' key for 4 seconds
